@@ -1,1 +1,1 @@
-por favor, adicione por si mesmo o ambiente virtual e migrações.
+Esse projeto deve ser baixado no seu proprio computador e possivelmente deve baixar o django tambem
